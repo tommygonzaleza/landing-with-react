@@ -4,7 +4,7 @@ export const Cards = () => {
     return (
         <div>
             <div className="card-deck text-center">
-                <div className="card">
+                <div className="card col-3">
                     <img src="..." className="card-img-top" alt="..." />
                     <div className="card-body">
                         <h5 className="card-title">Card title</h5>
@@ -14,7 +14,7 @@ export const Cards = () => {
                         <a href="#" className="btn btn-primary">Find Out More!</a>
                     </div>
                 </div>
-                <div className="card">
+                <div className="card col-3">
                     <img src="..." className="card-img-top" alt="..." />
                     <div className="card-body">
                         <h5 className="card-title">Card title</h5>
@@ -24,7 +24,7 @@ export const Cards = () => {
                         <a href="#" className="btn btn-primary">Find Out More!</a>
                     </div>
                 </div>
-                <div className="card">
+                <div className="card col-3">
                     <img src="..." className="card-img-top" alt="..." />
                     <div className="card-body">
                         <h5 className="card-title">Card title</h5>
@@ -35,7 +35,7 @@ export const Cards = () => {
                     </div>
                 </div>
             </div>
-            <div className="card">
+            <div className="card col-3">
                     <img src="..." className="card-img-top" alt="..." />
                     <div className="card-body">
                         <h5 className="card-title">Card title</h5>
