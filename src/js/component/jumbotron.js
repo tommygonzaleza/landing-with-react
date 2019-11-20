@@ -1,3 +1,5 @@
+import React from "react";
+
 export const Jumbotron = (props) => {
     return (
         <div className="jumbotron jumbotron-fluid">
